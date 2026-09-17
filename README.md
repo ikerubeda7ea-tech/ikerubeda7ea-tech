@@ -1,16 +1,15 @@
 
-### Hi there, I'm Iker! 👋
+### ¡Hola, soy Iker! 👋🔭
 
-- 🔭 **I'm currently working as:** A student at **Institut Tecnològic de Barcelona (ITB)**. I have just started my Vocational Education and Training (VET) course! 🚀
-- 🌱 **I'm learning and interested in:** My very first steps in Git, GitHub, Markdown, and exploring the product sectors' digital transformation.
-- 👯 **I'm looking forward to collaborate on:** My first coding projects, team tasks, and classroom repositories.
-- 💬 **Ask me about:** Why I decided to study technology and what I'm discovering in these first weeks of class.
-- 📫 **You can reach me at:** iker.ubeda.7ea@itb.cat.
+- 🔭 **Actualmente estoy como:** Estudiante en el **Institut Tecnològic de Barcelona (ITB)**. ¡Acabo de empezar mi ciclo formativo de Formación Profesional (FP)! 🚀
+- 🌱 **Estoy aprendiendo e interesado en:** Dar mis primeros pasos en Git, GitHub, Markdown y explorar la transformación digital en los sectores de productos.
+- 👯 **Tengo muchas ganas de colaborar en:** Mi primeros proyectos de programación, tareas en equipo y repositorios de clase.
+- 💬 **Pregúntame sobre:** Por qué decidí estudiar tecnología y qué estoy descubriendo en estas primeras semanas de clase.
+- 📫 **Puedes contactarme en:** iker.ubeda.7ea@itb.cat.
 
 ---
 
 *“The best way to predict the future is to invent it.”* 💻✨
-
 ---
 
 ### 👾 Un poco más sobre mí
