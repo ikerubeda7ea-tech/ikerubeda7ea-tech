@@ -16,4 +16,4 @@
 
 Tengo **21 años** y, fuera de las pantallas y el código, soy un gran apasionado del **anime** y la fantasia. Me encanta disfrutar de una buena historia, seguir mis series favoritas en mi tiempo libre y conectar con gente que comparta los mismos gustos.
 
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/Things-Fate-Change-About-Gilgamesh-Mythology.jpg?w=1600&h=900&fit=crop" alt="Girl in a jacket" width="200" height="400">
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/Things-Fate-Change-About-Gilgamesh-Mythology.jpg?w=1600&h=900&fit=crop" alt="Girl in a jacket" width="200" height="300">
