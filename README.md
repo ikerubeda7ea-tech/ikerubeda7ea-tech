@@ -1,5 +1,5 @@
 
-### ¡Hola, soy Iker! 👋🔭
+# ¡Hola, soy Iker! 👋🔭
 
 - 🔭 **Actualmente estoy como:** Estudiante en el **Institut Tecnològic de Barcelona (ITB)**. ¡Acabo de empezar mi ciclo formativo de Formación Profesional (FP)! 🚀
 - 🌱 **Estoy aprendiendo e interesado en:** Dar mis primeros pasos en Git, GitHub, Markdown y explorar la transformación digital en los sectores de productos.
