@@ -1,6 +1,8 @@
 
  # ¡Hola, soy Iker! 👋🔭
 <img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/Things-Fate-Change-About-Gilgamesh-Mythology.jpg?w=1600&h=900&fit=crop" alt="Girl in a jacket" width="100" height="100">
+---
+
 - 🔭 **Actualmente estoy como:** Estudiante en el **Institut Tecnològic de Barcelona (ITB)**. ¡Acabo de empezar mi ciclo formativo de Formación Profesional (FP)! 🚀
 - 🌱 **Estoy aprendiendo e interesado en:** Dar mis primeros pasos en Git, GitHub, Markdown y explorar la transformación digital en los sectores de productos.
 - 👯 **Tengo muchas ganas de colaborar en:** Mi primeros proyectos de programación, tareas en equipo y repositorios de clase.
