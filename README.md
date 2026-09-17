@@ -17,4 +17,4 @@
 
 Tengo **21 años** y, fuera de las pantallas y el código, soy un gran apasionado del **anime** y la fantasia. Me encanta disfrutar de una buena historia, seguir mis series favoritas en mi tiempo libre y conectar con gente que comparta los mismos gustos.
 
-
+Cuento con una sólida formación en el ámbito tecnológico, avalada por las titulaciones de Técnico en Sistemas Microinformáticos y Redes (Grado Medio) y Técnico Superior en Administración de Sistemas Informáticos en Red (ASIX). Esta trayectoria académica me ha permitido adquirir competencias tanto en el soporte técnico y microinformática como en la gestión y administración de entornos de red complejos
